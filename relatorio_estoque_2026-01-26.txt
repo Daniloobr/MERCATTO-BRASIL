@@ -1,0 +1,15 @@
+RELATÓRIO DE ESTOQUE - 2026-01-26
+==================================================
+Total de produtos: 7
+Valor total em estoque: R$ 7188,60
+Produtos com baixo estoque: 0
+
+PRODUTOS EM ESTOQUE:
+------------------------------------------------------------
+Nutella              | Quantidade:   70 | Valor: R$   24,99 | DISPONÍVEL
+Whey Protein         | Quantidade:   30 | Valor: R$   89,90 | DISPONÍVEL
+Café Premium         | Quantidade:   50 | Valor: R$   12,50 | DISPONÍVEL
+Azeite de Oliva      | Quantidade:   25 | Valor: R$   18,75 | DISPONÍVEL
+Arroz Integral       | Quantidade:  100 | Valor: R$    6,99 | DISPONÍVEL
+Feijão Preto         | Quantidade:   80 | Valor: R$    8,50 | DISPONÍVEL
+Óleo de Soja         | Quantidade:   45 | Valor: R$    5,99 | DISPONÍVEL
