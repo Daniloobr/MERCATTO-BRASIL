@@ -64,22 +64,24 @@ mercatto-brasil/
 ```
 
 
-📄 Compliance e Licença
-Este software é distribuído sob a MIT License. É uma solução aberta para que a comunidade possa contribuir, mas pronta para uso comercial imediato.
+````
 
-Nota: Todos os direitos reservados à marca Mercatto Brasil™ - 2024.
+📄 Compliance e Licença
+Este software é distribuído sob a MIT License. Trata-se de uma solução de código aberto projetada para fomentar a colaboração da comunidade, mantendo-se pronta para uso comercial imediato.
+
+[!IMPORTANT]
+Nota de Propriedade Intelectual: Embora o código seja aberto, todos os direitos sobre a marca, logotipos e identidade visual são reservados à Mercatto Brasil™ — 2024.
 
 👤 Autor e Idealizador
-Danilo Araujo Lead Developer & Architect
+Danilo Araujo
+Lead Developer & Architect
 
-Especialista em criar soluções que aproximam a tecnologia de ponta da realidade do pequeno empreendedor.
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+Especialista em criar soluções que conectam tecnologia de ponta à realidade do pequeno empreendedor brasileiro. Minha missão é democratizar ferramentas robustas para quem move a economia do país.
 
 <div align="center">
-<sub>Mercatto Brasil: O sistema de quem faz o Brasil acontecer.</sub>
+<p><strong>Mercatto Brasil:</strong> O sistema de quem faz o Brasil acontecer.</p>
 </div>
+
 # Execute o instalador automático (Recomendado)
 ./scripts/instalar.bat
 
