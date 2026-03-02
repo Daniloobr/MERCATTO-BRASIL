@@ -64,9 +64,10 @@ mercatto-brasil/
 ```
 
 
-````
+
 
 📄 Compliance e Licença
+
 Este software é distribuído sob a MIT License. Trata-se de uma solução de código aberto projetada para fomentar a colaboração da comunidade, mantendo-se pronta para uso comercial imediato.
 
 [!IMPORTANT]
