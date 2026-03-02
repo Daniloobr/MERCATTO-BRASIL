@@ -61,6 +61,7 @@ mercatto-brasil/
 ├── scripts/             # Ferramentas de Instalação e Execução
 ├── assets/              # Identidade Visual e Recursos Gráficos
 └── docs/                # Manuais de Uso para o Comerciante
+```
 
 
 📄 Compliance e Licença
@@ -81,3 +82,4 @@ Especialista em criar soluções que aproximam a tecnologia de ponta da realidad
 </div>
 # Execute o instalador automático (Recomendado)
 ./scripts/instalar.bat
+
